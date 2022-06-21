@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="573.43273"
-     inkscape:cy="-879.64582"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="-141.45361"
+     inkscape:cy="-328.67294"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -94,8 +94,8 @@
     <g
        id="g4554"
        transform="translate(331.33004,56.568543)"
-       inkscape:export-xdpi="250.5"
-       inkscape:export-ydpi="250.5">
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
       <g
          id="g4425">
         <circle
@@ -150,7 +150,9 @@
     </g>
     <g
        id="g4542"
-       transform="translate(214.15234,24.243661)">
+       transform="translate(214.15234,24.243661)"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
       <g
          id="g4408"
          inkscape:export-xdpi="250.5"
@@ -208,8 +210,8 @@
     <g
        id="g4531"
        transform="translate(-32.324881,0)"
-       inkscape:export-xdpi="250.5"
-       inkscape:export-ydpi="250.5">
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
       <g
          id="g4268">
         <circle
@@ -261,8 +263,8 @@
     <g
        id="g4520"
        transform="translate(-113.13708,-4.0406102)"
-       inkscape:export-xdpi="250.5"
-       inkscape:export-ydpi="250.5">
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
       <g
          id="g4417">
         <circle
@@ -315,8 +317,8 @@
     <g
        id="g4916"
        transform="translate(16.162441,52.527932)"
-       inkscape:export-xdpi="250.5"
-       inkscape:export-ydpi="250.5">
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
       <rect
          ry="49.999996"
          rx="50"
